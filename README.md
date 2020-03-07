@@ -1,3 +1,5 @@
+![Callidus](https://raw.githubusercontent.com/3xpl01tc0d3r/Callidus/master/Logo.png?token=AH43ZWUCQA7V32MGNLKMFFC6MNLZK)
+
 # Callidus
 
 ----
