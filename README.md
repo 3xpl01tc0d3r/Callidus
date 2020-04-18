@@ -24,3 +24,7 @@ Please read the [blog post](https://3xpl01tc0d3r.blogspot.com/2020/03/introducti
 ### Blog Post
 
 [https://3xpl01tc0d3r.blogspot.com/2020/03/introduction-to-callidus.html](https://3xpl01tc0d3r.blogspot.com/2020/03/introduction-to-callidus.html)
+
+### Presentation
+
+[Slides](https://docs.google.com/presentation/d/15gDV3vTPIO5X6SmnzYLJ8qi5z2OaR4nK25H-OJ994LU/edit?usp=sharing)
